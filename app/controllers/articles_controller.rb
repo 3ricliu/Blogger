@@ -53,6 +53,7 @@ class ArticlesController < ApplicationController
     redirect_to article_path(@article)
   end
 
+
 end
 
 # why are there both edit and update?
